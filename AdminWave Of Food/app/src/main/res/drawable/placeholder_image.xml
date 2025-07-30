@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Màu nền xám -->
+    <solid android:color="#CCCCCC" />
+    <!-- Kích thước hình vuông 100dp x 100dp -->
+    <size android:width="100dp" android:height="100dp" />
+    <!-- Bo góc nhẹ (tùy chọn) -->
+    <corners android:radius="8dp" />
+</shape>
